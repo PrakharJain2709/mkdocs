@@ -4,7 +4,6 @@
 * 1.how to install tmux in your terminal `sudo apt install tmux`
 * 2.how to start a tmux session `tmux`
 
-
 ## Opening and toggling panes 
 * 1.how to open different vertical panes `ctrl+b+%` 
 * 2.how to open different horizontal panes `ctrl+b+"`
@@ -24,3 +23,5 @@
 * 4.how to rename the session `tmux rename-session -t 'old name' 'new name'`
 * 5.how to rename a seesion at the time of starting it `tmux new -s 'new name'`
 * 6.how to remove/kill a session `tmux kill-session -t 'session name'`
+
+![Image title](https://www.perl.com/images/an-introduction-to-tmux/tmux-panes.png){ align=left }
