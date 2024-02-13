@@ -1,8 +1,14 @@
 # Tmux documentation 
 
 ## Installation
-* 1.how to install tmux in your terminal `sudo apt install tmux`
-* 2.how to start a tmux session `tmux`
+* 1.how to install tmux in your terminal 
+```
+sudo apt install tmux
+```
+* 2.how to start a tmux session 
+```
+tmux
+```
 
 ![type:video-tag](./videos.md/1a.mp4)
 
